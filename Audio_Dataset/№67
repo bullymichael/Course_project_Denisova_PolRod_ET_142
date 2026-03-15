@@ -1,1 +1,6 @@
-Транскрибация контрольного мероприятия инспектором
+Тема: Транскрибация контрольного мероприятия инспектором
+Партнёр: ОГБУ «ЧРЦНИТ»\ ПАО Сбербанк
+Тип данных: Аудио
+Источник: Hugging Face Hub
+Датасет: AudioLLMs/peoples_speech_test
+Ссылка: https://huggingface.co/datasets/AudioLLMs/peoples_speech_test/viewer/default/test
