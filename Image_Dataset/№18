@@ -1,1 +1,6 @@
-Обучение модели для детекции очков (обычные, солнцезащитные)
+Тема: Обучение модели для детекции очков (обычные, солнцезащитные)
+Источник: GitHub репозиторий WCUSTC/GogglesDET
+Датасет: GogglesDET2023
+Краткое описание: Датасет, созданный специально для задачи детекции защитных очков (goggles). 
+Автор: Chong Wang, Zhuozhi Cheng, Adeel Akram, Qixing Zhang, Yongming Zhang 
+Ссылка: https://github.com/WCUSTC/GogglesDET
