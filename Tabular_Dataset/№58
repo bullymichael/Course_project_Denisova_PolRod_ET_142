@@ -1,1 +1,7 @@
 Тема: Прогнозирование стоимости медицинской страховки
+Партнёр:
+Источник: Machine Learning with R by Brett Lantz
+Датасет: Medical Cost Personal Dataset
+Краткое описание: Датасет содержит 1338 наблюдений и используется для прогнозирования индивидуальных медицинских расходов, выставляемых страховыми компаниями.
+Автор: Brett Lantz
+Ссылка: https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction
