@@ -1,15 +1,15 @@
 Тема: Прогнозирование стоимости медицинской страховки
 Партнёр: ОГБУ «ЧРЦНИТ» 
 Тип данных: Табличные данные
-Название датасета: Medical Cost Personal Dataset
-Источник: Machine Learning with R by Brett Lantz
+Название датасета: Medical Insurance Price Prediction
+Источник: Kaggle
 Ссылка: https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction
 Дата доступа: 23 марта 2026 г.
 Владелец: HARISH KUMAR (пользователь Kaggle: harishkumardatalab)
 Дата публикации: 22 июня 2023 г
 Дата доступа: 23 марта 2026
 Лицензия: CC0 (Creative Commons Zero)
-Мощность датасета: 2773 строк, 7(8) столбцов
+Мощность датасета: 2773 строк, 7 столбцов
 
 Признак   Семантика                              Диапазон/значения        Пример значений        Тип данных
 age        Возраст                               18-64                    18, 37, 56             Числовые
