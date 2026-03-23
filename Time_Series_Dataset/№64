@@ -1,8 +1,4 @@
 Тема: Раннее обнаружение перегрева подшипника по тренду температуры. 
-Партнёр: Раннее обнаружение перегрева подшипника по тренду температуры. 
+Партнёр: НИЛ Технической самодиагностики и самоконтроля приборов и систем  ЮУрГУ (ПАО «Северсталь»)
 Тип данных: Временные ряды
-Источник: Data in Brief, Volume 54, June 2024
-Датасет: Vibration, and temperature run-to-failure dataset of ball bearing for prognostics
-Краткое описание: Датасет содержит многомерные временные ряды вибрации и температуры шарикоподшипника, полученные в ходе ускоренных ресурсных испытаний до полного отказа (run-to-failure).
-Автор: Wonho Jung, Sung-Hyun Yun, Yong-Hwa Park (Center for Noise and Vibration Control Plus, Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology, KAIST)
-Ссылка: https://data.mendeley.com/datasets/5hcdd3tdvb/6
+https://drive.google.com/drive/folders/1_ycmG46PARiykt82ShfnFfyQsaXv3_VK
