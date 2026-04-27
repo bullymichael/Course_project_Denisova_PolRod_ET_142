@@ -1,0 +1,7 @@
+Тема: Обнаружение головных уборов (строительные каски)
+Тип данных: Изображения
+Источник: roboflow
+Датасет: Hard Hat Workers.v10-raw_allclasses.yolov8
+Краткое описание: датасет, содержащий фотографии людей в касках и без них
+Ссылка: https://universe.roboflow.com/joseph-nelson/hard-hat-workers/dataset/10/images?split=train
+Ссылка на коды в colab: https://colab.research.google.com/drive/1_yPqBpo3peEG-ihgauwMkC2TCNuQT5sT?usp=sharing
