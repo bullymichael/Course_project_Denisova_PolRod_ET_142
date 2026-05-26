@@ -1,1 +1,6 @@
-
+Тема: Прогнозирование цены медицинской страховки
+Тип данных: табличные
+Источник: kaggle
+Датасет: Medical_insurance.csv
+Краткое описание: датасет, содержащий столбцы с характеристиками, которые влияют на цену страховки
+Ссылка: https://www.kaggle.com/datasets/harishkumardatalab/medicalinsurance-price-prediction
