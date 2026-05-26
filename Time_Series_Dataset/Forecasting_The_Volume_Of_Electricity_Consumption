@@ -1,2 +1,8 @@
-Тема: 
+Тема: Тема: Прогнозирование (многомерный временной ряд) объёма потребления электроэнергии в городе Тетуан 
 Тип данных: Временные ряды
+Источник: archive.ics.uci.edu
+Датасет: Power Consumption of Tetouan City 
+Краткое описание: датасет, содержащий метеорологические параметры (Temperature, 
+Humidity, Wind Speed, diffuse flows) и три измерительных канала 
+энергопотребления по зонам города (Zone 1, Zone 2, Zone 3)
+Ссылка: https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city
